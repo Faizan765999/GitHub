@@ -87,7 +87,7 @@ body {
   height: 80vh;
   color: azure;
   background-color: #0d1117;
-  background-image: url(./img/light-glow.svg);
+  background-image: url(./light-glow.svg);
   background-position: bottom;
   padding-top: 60px;
   gap: 19px;
@@ -179,7 +179,7 @@ body {
 .download-section {
   display: flex;
   height: 45vh;
-  background-image: url(./img/square-pattern.png);
+  background-image: url(./square-pattern.png);
   background-color: rgb(250, 250, 250);
   background-position: bottom;
   justify-content: center;
@@ -255,3 +255,4 @@ footer {
   border: 2px solid rgb(200, 211, 211);
   background-color: rgb(200, 211, 211);
 }
+
